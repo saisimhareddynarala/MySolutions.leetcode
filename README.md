@@ -38,6 +38,7 @@ LeetCode Solutions(arrays)
 | [1950-sign-of-the-product-of-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2047-find-a-peak-element-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2102-find-the-middle-index-in-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
@@ -150,4 +151,8 @@ LeetCode Solutions(arrays)
 |  |
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
