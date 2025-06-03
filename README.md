@@ -50,6 +50,7 @@ LeetCode Solutions(arrays)
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
+| [2727-number-of-senior-citizens](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,6 +158,7 @@ LeetCode Solutions(arrays)
 | [1944-truncate-sentence](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1944-truncate-sentence) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
+| [2727-number-of-senior-citizens](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2727-number-of-senior-citizens) |
 ## String Matching
 |  |
 | ------- |
