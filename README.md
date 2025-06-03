@@ -53,6 +53,7 @@ LeetCode Solutions(arrays)
 | [2727-number-of-senior-citizens](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ LeetCode Solutions(arrays)
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
