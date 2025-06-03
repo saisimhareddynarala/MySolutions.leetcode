@@ -13,10 +13,12 @@ LeetCode Solutions(arrays)
 | [0033-search-in-rotated-sorted-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +42,5 @@ LeetCode Solutions(arrays)
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
