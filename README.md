@@ -21,6 +21,7 @@ LeetCode Solutions(arrays)
 | [0136-single-number](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ LeetCode Solutions(arrays)
 | [0033-search-in-rotated-sorted-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
