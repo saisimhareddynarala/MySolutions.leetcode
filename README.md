@@ -45,6 +45,7 @@ LeetCode Solutions(arrays)
 | [2144-maximum-difference-between-increasing-elements](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2342-minimum-average-difference](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ LeetCode Solutions(arrays)
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +115,7 @@ LeetCode Solutions(arrays)
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,4 +175,8 @@ LeetCode Solutions(arrays)
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Greedy
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
