@@ -18,6 +18,7 @@ LeetCode Solutions(arrays)
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,8 @@ LeetCode Solutions(arrays)
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
