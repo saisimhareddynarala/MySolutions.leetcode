@@ -43,6 +43,7 @@ LeetCode Solutions(arrays)
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2342-minimum-average-difference](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2342-minimum-average-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@ LeetCode Solutions(arrays)
 |  |
 | ------- |
 | [2102-find-the-middle-index-in-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2342-minimum-average-difference](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2342-minimum-average-difference) |
 ## Simulation
 |  |
 | ------- |
