@@ -39,6 +39,7 @@ LeetCode Solutions(arrays)
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2047-find-a-peak-element-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ LeetCode Solutions(arrays)
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0169-majority-element) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +105,7 @@ LeetCode Solutions(arrays)
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +133,7 @@ LeetCode Solutions(arrays)
 | [0824-number-of-lines-to-write-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [1524-string-matching-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1944-truncate-sentence](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1944-truncate-sentence) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## String Matching
 |  |
 | ------- |
@@ -138,4 +142,12 @@ LeetCode Solutions(arrays)
 |  |
 | ------- |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
