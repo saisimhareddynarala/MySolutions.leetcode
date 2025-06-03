@@ -41,6 +41,7 @@ LeetCode Solutions(arrays)
 | [2102-find-the-middle-index-in-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
 | ------- |
