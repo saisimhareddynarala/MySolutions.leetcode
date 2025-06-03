@@ -25,11 +25,13 @@ LeetCode Solutions(arrays)
 | [0162-find-peak-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +46,7 @@ LeetCode Solutions(arrays)
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +71,7 @@ LeetCode Solutions(arrays)
 | [0075-sort-colors](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +89,8 @@ LeetCode Solutions(arrays)
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0164-maximum-gap) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
