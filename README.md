@@ -68,6 +68,7 @@ LeetCode Solutions(arrays)
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ LeetCode Solutions(arrays)
 | [3321-type-of-triangle](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Matrix
 |  |
 | ------- |
@@ -207,6 +209,7 @@ LeetCode Solutions(arrays)
 | ------- |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -243,4 +246,9 @@ LeetCode Solutions(arrays)
 |  |
 | ------- |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
