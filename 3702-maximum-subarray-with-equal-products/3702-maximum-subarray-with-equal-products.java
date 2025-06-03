@@ -11,14 +11,14 @@ class Solution {
  for (int j = z; j < si; j++) {
                 ipd = ipd * b[j];
                                 sq = meth1(sq, b[j]);
-                                                                                            we = mety2(we, b[j]);
+       we = mety2(we, b[j]);
 
  if (ipd == we * sq) res = Math.max(res, j - z + 1);
                 
             }
         }
 //
-                                return res;
+         return res;
     }
        public static long prod(int[] gr) {
         long an=1;
