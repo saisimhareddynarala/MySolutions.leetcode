@@ -54,6 +54,7 @@ LeetCode Solutions(arrays)
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3311-ant-on-the-boundary](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
 |  |
 | ------- |
@@ -189,10 +190,12 @@ LeetCode Solutions(arrays)
 | [2102-find-the-middle-index-in-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2342-minimum-average-difference](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [3311-ant-on-the-boundary](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Simulation
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3311-ant-on-the-boundary](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Brainteaser
 |  |
 | ------- |
