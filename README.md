@@ -67,6 +67,7 @@ LeetCode Solutions(arrays)
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ LeetCode Solutions(arrays)
 | [2047-find-a-peak-element-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Sorting
 |  |
 | ------- |
@@ -236,6 +238,7 @@ LeetCode Solutions(arrays)
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Enumeration
 |  |
 | ------- |
