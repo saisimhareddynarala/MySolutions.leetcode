@@ -52,6 +52,7 @@ LeetCode Solutions(arrays)
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,6 +164,7 @@ LeetCode Solutions(arrays)
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## String Matching
 |  |
 | ------- |
