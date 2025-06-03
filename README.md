@@ -10,6 +10,7 @@ LeetCode Solutions(arrays)
 | [0004-median-of-two-sorted-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ LeetCode Solutions(arrays)
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
