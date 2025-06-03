@@ -29,6 +29,7 @@ LeetCode Solutions(arrays)
 | [0349-intersection-of-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0792-binary-search) |
+| [0824-number-of-lines-to-write-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
@@ -107,4 +108,8 @@ LeetCode Solutions(arrays)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0824-number-of-lines-to-write-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0824-number-of-lines-to-write-string) |
 <!---LeetCode Topics End-->
