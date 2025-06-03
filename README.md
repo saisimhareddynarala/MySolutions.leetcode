@@ -1,5 +1,5 @@
 # Solutions.leetcode.-
-LeetCode Solutions
+Solutions for LeetCode DSA problems in java with basic approaches and optimal logics.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
