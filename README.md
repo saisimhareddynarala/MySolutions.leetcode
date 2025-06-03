@@ -1,5 +1,5 @@
-# Solutions.leetcode_-arrays-
-LeetCode Solutions(arrays)
+# Solutions.leetcode.-
+LeetCode Solutions
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
