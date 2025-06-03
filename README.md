@@ -59,6 +59,7 @@ LeetCode Solutions(arrays)
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3541-report-spam-message](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3541-report-spam-message) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
@@ -74,6 +75,7 @@ LeetCode Solutions(arrays)
 | [3206-find-common-elements-between-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3541-report-spam-message](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3541-report-spam-message) |
 ## Binary Search
 |  |
 | ------- |
@@ -182,6 +184,7 @@ LeetCode Solutions(arrays)
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3541-report-spam-message](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3541-report-spam-message) |
 ## String Matching
 |  |
 | ------- |
