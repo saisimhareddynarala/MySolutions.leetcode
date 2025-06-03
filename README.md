@@ -36,6 +36,7 @@ LeetCode Solutions(arrays)
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1944-truncate-sentence](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2047-find-a-peak-element-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ LeetCode Solutions(arrays)
 | [0349-intersection-of-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
