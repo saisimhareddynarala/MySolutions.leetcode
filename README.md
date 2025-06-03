@@ -63,6 +63,7 @@ LeetCode Solutions(arrays)
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3582-find-indices-of-stable-mountains](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
@@ -166,6 +167,7 @@ LeetCode Solutions(arrays)
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
