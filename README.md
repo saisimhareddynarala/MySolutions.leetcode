@@ -14,6 +14,7 @@ LeetCode Solutions(arrays)
 | [0035-search-insert-position](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ LeetCode Solutions(arrays)
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0075-sort-colors) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +45,8 @@ LeetCode Solutions(arrays)
 | ------- |
 | [0048-rotate-image](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0073-set-matrix-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
