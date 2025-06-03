@@ -12,6 +12,7 @@ LeetCode Solutions(arrays)
 | [0027-remove-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0075-sort-colors) |
@@ -251,4 +252,8 @@ LeetCode Solutions(arrays)
 |  |
 | ------- |
 | [3702-maximum-subarray-with-equal-products](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
