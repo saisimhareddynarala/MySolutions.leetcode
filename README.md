@@ -61,6 +61,7 @@ LeetCode Solutions(arrays)
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3541-report-spam-message](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3541-report-spam-message) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3582-find-indices-of-stable-mountains](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
@@ -164,6 +165,7 @@ LeetCode Solutions(arrays)
 | [0137-single-number-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0137-single-number-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -225,4 +227,8 @@ LeetCode Solutions(arrays)
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Enumeration
+|  |
+| ------- |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 <!---LeetCode Topics End-->
