@@ -48,6 +48,7 @@ LeetCode Solutions(arrays)
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ LeetCode Solutions(arrays)
 | [0349-intersection-of-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +76,7 @@ LeetCode Solutions(arrays)
 | [0882-peak-index-in-a-mountain-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2047-find-a-peak-element-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2586-longest-square-streak-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,10 +123,12 @@ LeetCode Solutions(arrays)
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2586-longest-square-streak-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
