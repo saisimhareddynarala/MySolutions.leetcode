@@ -60,6 +60,7 @@ LeetCode Solutions(arrays)
 | [3446-find-the-number-of-good-pairs-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3582-find-indices-of-stable-mountains](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
 |  |
 | ------- |
