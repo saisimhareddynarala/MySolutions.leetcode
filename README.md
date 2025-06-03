@@ -63,6 +63,7 @@ LeetCode Solutions(arrays)
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3582-find-indices-of-stable-mountains](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3587-maximum-points-tourist-can-earn](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -137,6 +138,7 @@ LeetCode Solutions(arrays)
 | [0073-set-matrix-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2047-find-a-peak-element-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3587-maximum-points-tourist-can-earn](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +163,7 @@ LeetCode Solutions(arrays)
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2586-longest-square-streak-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [3587-maximum-points-tourist-can-earn](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 ## Bit Manipulation
 |  |
 | ------- |
