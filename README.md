@@ -45,6 +45,7 @@ LeetCode Solutions(arrays)
 | [2144-maximum-difference-between-increasing-elements](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2342-minimum-average-difference](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +122,7 @@ LeetCode Solutions(arrays)
 | ------- |
 | [0136-single-number](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0137-single-number-ii) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -166,4 +168,8 @@ LeetCode Solutions(arrays)
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
