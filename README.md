@@ -32,6 +32,7 @@ LeetCode Solutions(arrays)
 | [0792-binary-search](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0792-binary-search) |
 | [0824-number-of-lines-to-write-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1524-string-matching-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,4 +115,9 @@ LeetCode Solutions(arrays)
 |  |
 | ------- |
 | [0824-number-of-lines-to-write-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [1524-string-matching-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1524-string-matching-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
