@@ -56,6 +56,7 @@ LeetCode Solutions(arrays)
 | [3206-find-common-elements-between-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3311-ant-on-the-boundary](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3321-type-of-triangle) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ LeetCode Solutions(arrays)
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -149,6 +151,7 @@ LeetCode Solutions(arrays)
 | [0136-single-number](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0137-single-number-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Bucket Sort
 |  |
 | ------- |
