@@ -35,6 +35,7 @@ LeetCode Solutions(arrays)
 | [1524-string-matching-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1944-truncate-sentence](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1944-truncate-sentence) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ LeetCode Solutions(arrays)
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0048-rotate-image) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Matrix
 |  |
 | ------- |
