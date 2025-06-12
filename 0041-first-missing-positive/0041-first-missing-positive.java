@@ -1,14 +1,24 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
-        Arrays.sort(nums);
-        Map<Integer,Integer> x = new HashMap<>();
-        for(int i=0;i<nums.length;i++){
-           x.put(nums[i],x.getOrDefault(nums[i],0)+1);
+       int x = nums.length+2;
+       
+          for(int i = 0; i<nums.length ; i++){
+            if(nums[i] <= 0 || nums[i] > nums.length)
+                 nums[i] = x;
+            
         }
-        for(int i=1;i<=nums.length+1;i++){
-            if(x.get(i) == null)
-            return i;
+        for(int i = 0; i<nums.length ; i++){
+            int val = Math.abs(nums[i]);
+            
+            if(val!=x && nums[val-1] > 0){
+                nums[val-1]= -1*nums[val-1];
+            }
+            
         }
-        return 10;
+        for(int i=0;i<nums.length; i++){
+            if(nums[i] > 0)
+            return i+1;
+        }
+        return nums.length+1;
     }
 }
