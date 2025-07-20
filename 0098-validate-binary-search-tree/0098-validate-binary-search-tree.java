@@ -15,39 +15,48 @@
  */
 class Solution {
   // static boolean flag = true; 
-   static ArrayList<Integer> x;
-    public static void traver(TreeNode r){
-        if(r==null) return;
-        traver(r.left);
-        x.add(r.val);
-        traver(r.right);
-        // TreeNode l = null ,ri = null;
-        // if(r.left!=null) l = r.left;
-        // if(r.right!=null)  ri  = r.right;
-        // if(l!=null){
-        //     if(l.val >= r.val){
-        //         flag = false;
-        //         return;
-        //     }
-        // }
-        //  if(ri!=null){
-        //     if(ri.val <= r.val){
-        //         flag = false;
-        //         return;
-        //     }
-        // }
-        // traver(r.left);
+  long v = Long.MIN_VALUE;
+    // public boolean traver(TreeNode r){
+    //     if(r==null) return true;
+    //     traver(r.left);
+    //    // System.out.print(r.val+" ");
+    //     if(r.val > v) v = r.val;
+    //     else{
+           
+    //         return false;
+    //     }
+    //     System.out.print(v+" ");
+    //     traver(r.right);
+    //    // x.add(r.val);
+    //    // traver(r.right);
+    //     // TreeNode l = null ,ri = null;
+    //     // if(r.left!=null) l = r.left;
+    //     // if(r.right!=null)  ri  = r.right;
+    //     // if(l!=null){
+    //     //     if(l.val >= r.val){
+    //     //         flag = false;
+    //     //         return;
+    //     //     }
+    //     // }
+    //     //  if(ri!=null){
+    //     //     if(ri.val <= r.val){
+    //     //         flag = false;
+    //     //         return;
+    //     //     }
+    //     // }
+    //     // traver(r.left);
       
-        // traver(r.right);
-    }
+    //     // traver(r.right);
+    //     return true;
+    // }
     public boolean isValidBST(TreeNode root) {
-        x = new ArrayList<>();
-        traver(root);
-        for(int i=0;i < x.size()-1; i++){
-            if(x.get(i) >= x.get(i+1))
-            return false;
-        }
-        return true;
-        
+       // x = new ArrayList<>();
+    if(root == null) return true;
+    if(!isValidBST(root.left)) return false;
+    if(root.val > v ) v = root.val;
+    else return false;
+    if(! isValidBST(root.right)) return false;;
+       
+       return true;
     }
 }
