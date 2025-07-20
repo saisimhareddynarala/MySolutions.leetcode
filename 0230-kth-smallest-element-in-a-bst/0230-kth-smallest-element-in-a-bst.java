@@ -14,18 +14,26 @@
  * }
  */
 class Solution {
-   public static ArrayList<Integer> x;
+ static int cnt = 0;
+ static int  ans = 0;
     public int kthSmallest(TreeNode root, int k) {
-       x = new ArrayList<>();
-       level(root);
-       Collections.sort(x);
-       return x.get(k-1);
+      // x = new ArrayList<>();
+       level(root ,k);
+       cnt = 0;
+       return ans;
+      
     }
-    private static void level(TreeNode r){
+    private static void level(TreeNode r , int k){
         if(r==null) return;
-        x.add(r.val);
-        level(r.left);
-        level(r.right);
+        level(r.left , k);
+         cnt++;
+         if(cnt == k) {
+            ans = r.val;
+            return;
+         }
+      //  x.add(r.val);
+        
+        level(r.right, k);
        
         // Queue<TreeNode> q = new LinkedList<>();
         // if(r==null) return ;
