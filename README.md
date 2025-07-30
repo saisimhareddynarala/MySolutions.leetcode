@@ -82,6 +82,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0349-intersection-of-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -179,6 +180,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | ------- |
 | [0136-single-number](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0137-single-number-ii) |
+| [2427-first-letter-to-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
@@ -196,6 +198,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | ------- |
 | [0169-majority-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -204,6 +207,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [1524-string-matching-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1944-truncate-sentence](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1944-truncate-sentence) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
