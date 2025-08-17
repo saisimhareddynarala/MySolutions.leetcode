@@ -207,6 +207,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0006-zigzag-conversion) |
 | [0387-first-unique-character-in-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [1524-string-matching-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1524-string-matching-in-an-array) |
