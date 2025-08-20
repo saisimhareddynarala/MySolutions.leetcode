@@ -51,6 +51,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [2144-maximum-difference-between-increasing-elements](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2342-minimum-average-difference](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2388-replace-elements-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -87,6 +88,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0387-first-unique-character-in-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2107-find-unique-binary-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2107-find-unique-binary-string) |
+| [2388-replace-elements-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -254,6 +256,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2388-replace-elements-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [3311-ant-on-the-boundary](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Brainteaser
