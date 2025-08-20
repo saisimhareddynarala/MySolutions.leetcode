@@ -32,6 +32,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0283-move-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0792-binary-search) |
 | [0824-number-of-lines-to-write-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0824-number-of-lines-to-write-string) |
@@ -83,6 +84,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0349-intersection-of-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2586-longest-square-streak-in-an-array) |
