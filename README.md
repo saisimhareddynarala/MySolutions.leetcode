@@ -93,6 +93,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0500-keyboard-row](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0500-keyboard-row) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1619-path-crossing](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1619-path-crossing) |
 | [2107-find-unique-binary-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2107-find-unique-binary-string) |
 | [2388-replace-elements-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -225,6 +226,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0500-keyboard-row](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0500-keyboard-row) |
 | [0824-number-of-lines-to-write-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [1524-string-matching-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1619-path-crossing](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1619-path-crossing) |
 | [1944-truncate-sentence](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1944-truncate-sentence) |
 | [2107-find-unique-binary-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
