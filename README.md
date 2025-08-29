@@ -33,6 +33,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0349-intersection-of-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0500-keyboard-row) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0792-binary-search) |
 | [0824-number-of-lines-to-write-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0824-number-of-lines-to-write-string) |
@@ -87,6 +88,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0500-keyboard-row) |
 | [2107-find-unique-binary-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2107-find-unique-binary-string) |
 | [2388-replace-elements-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -215,6 +217,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | ------- |
 | [0006-zigzag-conversion](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0006-zigzag-conversion) |
 | [0387-first-unique-character-in-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0500-keyboard-row](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0500-keyboard-row) |
 | [0824-number-of-lines-to-write-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [1524-string-matching-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1944-truncate-sentence](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1944-truncate-sentence) |
