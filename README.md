@@ -34,6 +34,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0525-contiguous-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0792-binary-search) |
 | [0824-number-of-lines-to-write-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0824-number-of-lines-to-write-string) |
@@ -91,6 +92,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0387-first-unique-character-in-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0525-contiguous-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1619-path-crossing](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1619-path-crossing) |
@@ -258,6 +260,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0525-contiguous-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2342-minimum-average-difference](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2358-number-of-ways-to-split-array) |
