@@ -35,6 +35,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0525-contiguous-array) |
+| [0697-degree-of-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0697-degree-of-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0792-binary-search) |
 | [0824-number-of-lines-to-write-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0824-number-of-lines-to-write-string) |
@@ -93,6 +94,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0525-contiguous-array) |
+| [0697-degree-of-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0697-degree-of-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1619-path-crossing](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1619-path-crossing) |
