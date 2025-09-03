@@ -15,6 +15,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0039-combination-sum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0075-sort-colors) |
@@ -86,6 +87,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | ------- |
 | [0001-two-sum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -173,6 +175,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0164-maximum-gap) |
@@ -226,6 +229,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0006-zigzag-conversion) |
+| [0049-group-anagrams](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0500-keyboard-row) |
 | [0824-number-of-lines-to-write-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0824-number-of-lines-to-write-string) |
