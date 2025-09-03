@@ -196,6 +196,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -229,6 +230,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0006-zigzag-conversion) |
+| [0032-longest-valid-parentheses](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0500-keyboard-row) |
@@ -332,4 +334,8 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
