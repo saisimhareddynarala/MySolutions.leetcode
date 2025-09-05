@@ -260,6 +260,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -311,18 +312,21 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0098-validate-binary-search-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -340,4 +344,12 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0032-longest-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
