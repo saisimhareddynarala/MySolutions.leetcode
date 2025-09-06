@@ -342,6 +342,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2195-time-needed-to-buy-tickets](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Memoization
@@ -352,9 +353,11 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
