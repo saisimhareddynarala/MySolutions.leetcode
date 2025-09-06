@@ -44,6 +44,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1944-truncate-sentence](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -169,6 +170,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | ------- |
 | [0048-rotate-image](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
@@ -332,6 +334,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Queue
 |  |
 | ------- |
@@ -352,4 +355,12 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1663-detect-cycles-in-2d-grid](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+## Union Find
+|  |
+| ------- |
+| [1663-detect-cycles-in-2d-grid](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
