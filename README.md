@@ -317,6 +317,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -331,6 +332,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -338,6 +340,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Queue
@@ -368,6 +371,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0101-symmetric-tree) |
 | [1036-rotting-oranges](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1036-rotting-oranges) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Union Find
