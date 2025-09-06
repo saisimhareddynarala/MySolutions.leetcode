@@ -42,6 +42,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0824-number-of-lines-to-write-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1036-rotting-oranges](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -171,6 +172,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | ------- |
 | [0048-rotate-image](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1036-rotting-oranges](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1036-rotting-oranges) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -361,6 +363,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 ## Breadth-First Search
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1036-rotting-oranges) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Union Find
 |  |
