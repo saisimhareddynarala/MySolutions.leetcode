@@ -33,6 +33,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0283-move-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0503-next-greater-element-ii) |
@@ -126,6 +127,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -173,6 +175,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | ------- |
 | [0048-rotate-image](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1036-rotting-oranges](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1036-rotting-oranges) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -189,6 +192,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0169-majority-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -266,6 +270,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
