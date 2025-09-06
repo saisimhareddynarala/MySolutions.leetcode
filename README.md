@@ -35,6 +35,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0525-contiguous-array) |
 | [0697-degree-of-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0697-degree-of-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -354,6 +355,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0503-next-greater-element-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -372,4 +374,8 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 |  |
 | ------- |
 | [1663-detect-cycles-in-2d-grid](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
