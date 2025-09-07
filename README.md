@@ -72,6 +72,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3311-ant-on-the-boundary](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3321-type-of-triangle) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -111,6 +112,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3541-report-spam-message](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3541-report-spam-message) |
@@ -166,6 +168,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0070-climbing-stairs](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0070-climbing-stairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
+| [3227-find-missing-and-repeated-values](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -180,6 +183,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [1663-detect-cycles-in-2d-grid](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Sorting
