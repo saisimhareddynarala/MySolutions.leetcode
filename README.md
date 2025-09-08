@@ -33,6 +33,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0164-maximum-gap](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0169-majority-element) |
+| [0239-sliding-window-maximum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -276,12 +277,14 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0239-sliding-window-maximum) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -365,6 +368,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2195-time-needed-to-buy-tickets](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Memoization
@@ -400,4 +404,8 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0503-next-greater-element-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
