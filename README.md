@@ -175,6 +175,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | ------- |
 | [0048-rotate-image](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -226,6 +227,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0032-longest-valid-parentheses](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0322-coin-change) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -343,6 +345,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -351,6 +354,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -358,6 +362,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
