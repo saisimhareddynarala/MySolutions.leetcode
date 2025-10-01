@@ -43,6 +43,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0500-keyboard-row](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0525-contiguous-array) |
+| [0646-maximum-length-of-pair-chain](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0697-degree-of-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0697-degree-of-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0792-binary-search) |
@@ -207,6 +208,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0349-intersection-of-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -226,6 +228,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0070-climbing-stairs](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0322-coin-change) |
+| [0646-maximum-length-of-pair-chain](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [2586-longest-square-streak-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 ## Bit Manipulation
@@ -320,6 +323,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0011-container-with-most-water) |
+| [0646-maximum-length-of-pair-chain](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Enumeration
