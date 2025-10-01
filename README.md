@@ -35,6 +35,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0169-majority-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -224,6 +225,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0053-maximum-subarray](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0322-coin-change) |
 | [2586-longest-square-streak-in-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 ## Bit Manipulation
@@ -394,6 +396,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0101-symmetric-tree) |
+| [0322-coin-change](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0322-coin-change) |
 | [1036-rotting-oranges](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1036-rotting-oranges) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Union Find
