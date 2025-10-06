@@ -22,6 +22,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0053-maximum-subarray](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -190,6 +191,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | ------- |
 | [0048-rotate-image](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1036-rotting-oranges](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1036-rotting-oranges) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -265,6 +267,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0006-zigzag-conversion](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -344,6 +347,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0079-word-search) |
 | [2107-find-unique-binary-string](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2107-find-unique-binary-string) |
 ## Tree
 |  |
@@ -374,6 +378,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
