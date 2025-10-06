@@ -36,6 +36,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0169-majority-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -136,6 +137,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -166,6 +168,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0088-merge-sorted-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -242,6 +245,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | ------- |
 | [0136-single-number](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0137-single-number-ii) |
+| [0287-find-the-duplicate-number](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
