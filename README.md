@@ -20,6 +20,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0048-rotate-image](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0079-word-search) |
@@ -234,6 +235,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -336,6 +338,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0055-jump-game) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
