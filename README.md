@@ -21,6 +21,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0049-group-anagrams](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0079-word-search) |
@@ -182,6 +183,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
