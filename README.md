@@ -182,6 +182,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0070-climbing-stairs) |
@@ -440,4 +441,12 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
