@@ -13,6 +13,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0018-4sum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0039-combination-sum) |
@@ -166,6 +167,7 @@ Solutions for LeetCode DSA problems in java with basic approaches and optimal lo
 | [0018-4sum](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/saisimhareddynarala/MySolutions.leetcode/tree/master/0088-merge-sorted-array) |
